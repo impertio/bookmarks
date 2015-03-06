@@ -42,7 +42,7 @@ Step by step how to use java keytool <br>
 
 - [Key differences between HTTP1.0 and HTTP1.1](http://www8.org/w8-papers/5c-protocols/key/key.html) <br>
 This post covers all key differences point by point. After reading this post, you will have a good grasp of the differences. <br>
-** Balachander Krishnamurthy - 	Jeffrey C. Mogul -	David M. Kristol**
+**Balachander Krishnamurthy - 	Jeffrey C. Mogul -	David M. Kristol**
 
 - [HTTP2 Spec](http://http2.github.io/http2-spec/index.html) <br>
 This specification describes an optimized expression of the semantics of the Hypertext Transfer Protocol (HTTP). HTTP/2 enables a more efficient use of network resources and a reduced perception of latency by introducing header field compression and allowing multiple concurrent exchanges on the same connection. It also introduces unsolicited push of representations from servers to clients.  <br>

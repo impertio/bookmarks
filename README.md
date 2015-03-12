@@ -72,3 +72,20 @@ This post covers almost everything about how to design your restful API. Pretty 
 
 ### Type System
 - [The abject failure of weak typing](http://techblog.realestate.com.au/the-abject-failure-of-weak-typing/)
+
+### Best of StackOverFlow
+- [Why is processing a sorted array faster than an unstored array](http://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-an-unsorted-array?rq=1)
+- [Why is printing “B” dramatically slower than printing “#”?](http://stackoverflow.com/questions/21947452/why-is-printing-b-dramatically-slower-than-printing)
+- [Why is char[] preferred over String for passwords?](http://stackoverflow.com/questions/8881291/why-is-char-preferred-over-string-for-passwords)
+- [Difference between px, dp, dip and sp in Android?](http://stackoverflow.com/questions/2025282/difference-between-px-dp-dip-and-sp-in-android)
+- [What exactly is RESTful programming?](http://stackoverflow.com/questions/671118/what-exactly-is-restful-programming)
+- [Representational state transfer (REST) and Simple Object Access Protocol (SOAP)](http://stackoverflow.com/questions/209905/representational-state-transfer-rest-and-simple-object-access-protocol-soap)
+- [Difference between HashMap, LinkedHashMap and TreeMap](http://stackoverflow.com/questions/2889777/difference-between-hashmap-linkedhashmap-and-treemap)
+- [What is “2's Complement”?](http://stackoverflow.com/questions/1049722/what-is-2s-complement)
+- [How is the java memory pool divided?](http://stackoverflow.com/questions/1262328/how-is-the-java-memory-pool-divided)
+- [What is a WeakHashMap and when to use it?](http://stackoverflow.com/questions/5511279/what-is-a-weakhashmap-and-when-to-use-it)
+- [What is the significance of load factor in hashmap?](http://stackoverflow.com/questions/10901752/what-is-the-significance-of-load-factor-in-hashmap)
+- [What is the memory consumption of an object in Java?](http://stackoverflow.com/questions/258120/what-is-the-memory-consumption-of-an-object-in-java)
+- [Is it better to use System.arraycopy(…) than a fast for loop for copying arrays?](http://stackoverflow.com/questions/18638743/is-it-better-to-use-system-arraycopy-than-a-fast-for-loop-for-copying-array)
+- [Why are arrays covariant but generics are invariant?](http://stackoverflow.com/questions/18666710/why-are-arrays-covariant-but-generics-are-invariant)
+- 

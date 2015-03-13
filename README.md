@@ -32,6 +32,9 @@ How the main thread interacts with the Android components lifecycle. <br>
 Step by step how to use java keytool <br>
 **Jul 13, 2008**
 
+- [Multithreading and Concurrency Interview Q&A](http://www.javacodegeeks.com/2014/11/multithreading-concurrency-interview-questions-answers.html) <br>
+Different types of questions that can be used in a programming interview in order to assess a candidate's understanding of concurrency and multithreading.  The questions are not only Java specific, but revolve around general programming principles.
+
 - [String intern in java 6-7-8](http://java-performance.info/string-intern-in-java-6-7-8/) <br>
 This article will describe how String.intern method was implemented in Java 6 and what changes were made in it in Java 7 and Java 8. <br>
 **07 June 2014 - Mikhail Vorontsov**

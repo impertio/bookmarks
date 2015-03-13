@@ -31,6 +31,7 @@ How the main thread interacts with the Android components lifecycle. <br>
 - [The Most Common Java Keytool Keystore Commands](https://www.sslshopper.com/article-most-common-java-keytool-keystore-commands.html) <br>
 Step by step how to use java keytool <br>
 **Jul 13, 2008**
+
 - [Multithreading and Concurrency Interview Q&A](http://www.javacodegeeks.com/2014/11/multithreading-concurrency-interview-questions-answers.html) <br>
 Different types of questions that can be used in a programming interview in order to assess a candidate’s understanding of concurrency and multithreading.  The questions are not only Java specific, but revolve around general programming principles.
 

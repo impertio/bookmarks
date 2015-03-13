@@ -58,6 +58,9 @@ Documents, resources, examples shared across other gRPC repos. <br>
 A complete explanation about CORS<br>
 **Mar 4, 2015 - Mozilla**
 
+- [HTTP Status Codes](http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html) <br>
+Complete list of the status codes and descriptions
+
 #### RestAPI
 - [Best Practices for Designing a Pragmatic RESTful API] (http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) <br>
 This post covers almost everything about how to design your restful API. Pretty much everything is explained well detailed. <br>

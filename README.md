@@ -33,6 +33,8 @@ Step by step how to use java keytool <br>
 **Jul 13, 2008**
 
 #### Security
+- [Anatomy of a subtle json vulnerability](http://haacked.com/archive/2008/11/20/anatomy-of-a-subtle-json-vulnerability.aspx/)<br> A very subtle potential security flaw when using JSON <br>
+**November 20, 2008 - haacked.com/**
  
 #### Unit Test
 

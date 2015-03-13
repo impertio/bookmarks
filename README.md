@@ -32,6 +32,14 @@ How the main thread interacts with the Android components lifecycle. <br>
 Step by step how to use java keytool <br>
 **Jul 13, 2008**
 
+- [String intern in java 6-7-8](http://java-performance.info/string-intern-in-java-6-7-8/) <br>
+This article will describe how String.intern method was implemented in Java 6 and what changes were made in it in Java 7 and Java 8. <br>
+**07 June 2014 - Mikhail Vorontsov**
+
+- [ArrayList performance](http://java-performance.info/arraylist-performance/) <br>
+In a few categories to describe arraylist performance problems <br>
+**October 27, 2012 - Mikhail Vorontsov**
+
 #### Security
 - [Anatomy of a subtle json vulnerability](http://haacked.com/archive/2008/11/20/anatomy-of-a-subtle-json-vulnerability.aspx/)<br> A very subtle potential security flaw when using JSON <br>
 **November 20, 2008 - haacked.com/**

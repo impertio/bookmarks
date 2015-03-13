@@ -88,3 +88,4 @@ This post covers almost everything about how to design your restful API. Pretty 
 - [What is the memory consumption of an object in Java?](http://stackoverflow.com/questions/258120/what-is-the-memory-consumption-of-an-object-in-java)
 - [Is it better to use System.arraycopy(…) than a fast for loop for copying arrays?](http://stackoverflow.com/questions/18638743/is-it-better-to-use-system-arraycopy-than-a-fast-for-loop-for-copying-array)
 - [Why are arrays covariant but generics are invariant?](http://stackoverflow.com/questions/18666710/why-are-arrays-covariant-but-generics-are-invariant)
+- [Scala covariance / contravariance question](http://stackoverflow.com/questions/663254/scala-covariance-contravariance-question)

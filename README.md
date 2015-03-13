@@ -77,6 +77,10 @@ This post covers almost everything about how to design your restful API. Pretty 
 - [Random Json Generator](http://beta.json-generator.com/) <br>
 You can generate random and mock json objects with desired fields.
 
+- [Incremental Json Parser](http://lakhin.com/projects/papa-carlo/demo/) <br>
+This little demo application illustrates the idea of incremental compilation in action.
+The compiler of JSON language is written in Scala using Papa Carlo parser framework and compiled to JavaScript using ScalaJS. The demo works completely in the web browser. There is no server-side processing at all. 
+
 ### Functional Programming - General
 - [Practical Introduction to FP](http://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)
 

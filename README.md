@@ -33,7 +33,15 @@ Step by step how to use java keytool <br>
 **Jul 13, 2008**
 
 - [Multithreading and Concurrency Interview Q&A](http://www.javacodegeeks.com/2014/11/multithreading-concurrency-interview-questions-answers.html) <br>
-Different types of questions that can be used in a programming interview in order to assess a candidate’s understanding of concurrency and multithreading.  The questions are not only Java specific, but revolve around general programming principles.
+Different types of questions that can be used in a programming interview in order to assess a candidate's understanding of concurrency and multithreading.  The questions are not only Java specific, but revolve around general programming principles.
+
+- [String intern in java 6-7-8](http://java-performance.info/string-intern-in-java-6-7-8/) <br>
+This article will describe how String.intern method was implemented in Java 6 and what changes were made in it in Java 7 and Java 8. <br>
+**07 June 2014 - Mikhail Vorontsov**
+
+- [ArrayList performance](http://java-performance.info/arraylist-performance/) <br>
+In a few categories to describe arraylist performance problems <br>
+**October 27, 2012 - Mikhail Vorontsov**
 
 #### Security
 - [Anatomy of a subtle json vulnerability](http://haacked.com/archive/2008/11/20/anatomy-of-a-subtle-json-vulnerability.aspx/)<br> A very subtle potential security flaw when using JSON <br>
@@ -68,6 +76,13 @@ Complete list of the status codes and descriptions
 - [Best Practices for Designing a Pragmatic RESTful API] (http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) <br>
 This post covers almost everything about how to design your restful API. Pretty much everything is explained well detailed. <br>
 **Vinay Sahni**
+
+- [Random Json Generator](http://beta.json-generator.com/) <br>
+You can generate random and mock json objects with desired fields.
+
+- [Incremental Json Parser](http://lakhin.com/projects/papa-carlo/demo/) <br>
+This little demo application illustrates the idea of incremental compilation in action.
+The compiler of JSON language is written in Scala using Papa Carlo parser framework and compiled to JavaScript using ScalaJS. The demo works completely in the web browser. There is no server-side processing at all. 
 
 ### Functional Programming - General
 - [Practical Introduction to FP](http://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming)

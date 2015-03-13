@@ -33,6 +33,8 @@ Step by step how to use java keytool <br>
 **Jul 13, 2008**
 
 #### Security
+- [Anatomy of a subtle json vulnerability](http://haacked.com/archive/2008/11/20/anatomy-of-a-subtle-json-vulnerability.aspx/)<br> A very subtle potential security flaw when using JSON <br>
+**November 20, 2008 - haacked.com/**
  
 #### Unit Test
 
@@ -55,6 +57,9 @@ Documents, resources, examples shared across other gRPC repos. <br>
 - [HTTP Access Control (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS) <br>
 A complete explanation about CORS<br>
 **Mar 4, 2015 - Mozilla**
+
+- [HTTP Status Codes](http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html) <br>
+Complete list of the status codes and descriptions
 
 #### RestAPI
 - [Best Practices for Designing a Pragmatic RESTful API] (http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api) <br>

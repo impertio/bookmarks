@@ -27,6 +27,10 @@ A very good detailed presentation about how dalvik manages the memory <br>
 How the main thread interacts with the Android components lifecycle. <br>
 **December, 2013 - Square**
 
+- [How to publish your open source library to Maven central](http://intohand.com/blog/post/how-to-publish-your-open-source-library-to-maven-central) <br>
+Have you created a great (or at least useful) Java/Android open source project that you want to enable other developers use in their projects easily? have you wondered how to publish your library to Maven central? then this is the article for you!  <br>
+**March 12, 2015 - Scott Alexander-Bown**
+
 #### Java
 - [The Most Common Java Keytool Keystore Commands](https://www.sslshopper.com/article-most-common-java-keytool-keystore-commands.html) <br>
 Step by step how to use java keytool <br>

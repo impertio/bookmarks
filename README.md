@@ -31,7 +31,7 @@ How the main thread interacts with the Android components lifecycle. <br>
 Have you created a great (or at least useful) Java/Android open source project that you want to enable other developers use in their projects easily? have you wondered how to publish your library to Maven central? then this is the article for you!  <br>
 **March 12, 2015 - Scott Alexander-Bown**
 
-- [Continuous Delivery for Android](http://www.bignerdranch.com/blog/continuous-delivery-for-android/?utm_content=buffer87eed&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) <br>
+- [Continuous Delivery for Android](http://www.bignerdranch.com/blog/continuous-delivery-for-android) <br>
 Step by step to explain how to build a continuous delivery system for github repositories for android. <br>
 **Feb 27, 2015 - Matt Compton**
 

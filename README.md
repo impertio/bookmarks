@@ -98,6 +98,10 @@ The compiler of JSON language is written in Scala using Papa Carlo parser framew
 ### Machine Learning
 - [What is deep learning?](http://getprismatic.com/story/1421371580482)
 
+- [A Primer on Deep Learning](http://www.datarobot.com/blog/a-primer-on-deep-learning/) <br>
+An introductory level post on what is deep learning and what made it popular<br>
++**Dallin Akagi**
+
 ### Kernel and Core OS
 - [Understanding Virtual Memory](http://www.redhat.com/magazine/001nov04/features/vm/)
 
